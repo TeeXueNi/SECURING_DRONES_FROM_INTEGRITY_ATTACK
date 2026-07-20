@@ -1,4 +1,4 @@
-=============================================
+===============================================
 Securing Drones from Integrity Attack
 ---------------------------------------------
  Final Year Project 2 - Source Code
@@ -121,7 +121,7 @@ STEP 4 - Detection-latency / early-window analysis
 --------------------------------------------------------------------------------
 The self-collected dataset (generated in PX4 SITL + Gazebo) is hosted on Kaggle:
 
-    Kaggle dataset link:  [PASTE YOUR KAGGLE DATASET URL HERE]
+    Kaggle dataset link:  https://www.kaggle.com/datasets/diixueni/gps-spoofing-dataset
 
 The Kaggle dataset contains:
     - final_dataset.csv        (the processed, ready-to-train dataset)
